@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HowToStartAngularWith.NetCore", "HowToStartAngularWith.NetCore\HowToStartAngularWith.NetCore.csproj", "{EBC27B5C-0F30-4E48-99F9-0E080AD24416}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileUploadAngular5WithAsp.NetCore", "HowToStartAngularWith.NetCore\FileUploadAngular5WithAsp.NetCore.csproj", "{EBC27B5C-0F30-4E48-99F9-0E080AD24416}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
